@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>gustavo.tgn</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>LogicalMinds</Company>
+  </PropertyGroup>
+
+</Project>
